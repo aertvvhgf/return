@@ -1,0 +1,1 @@
+ALTER TABLE `guest_sync_vaults` MODIFY COLUMN `encryptedPayload` mediumtext NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE `found_posts` ADD `photoConsentAt` timestamp;
